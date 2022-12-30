@@ -1,4 +1,4 @@
-# Learning-Repository
+# Learning Spring Boot
 
 This repository's main Purpose is to learn and practice spring and spring boot
 
